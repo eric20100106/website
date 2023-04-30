@@ -17,12 +17,13 @@
     </item>
     
     <item>
-      <title>History</title>
+      <title>技术特点及标准</title>
       <link>/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>/history/</guid>
-      <description>About Heading Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+      <description>About Heading 融合通信调度指挥平台的特点包括： （1）	支持通过GIS地图一张图整合视频业务、地图定位业务、集群语音业务等。 （2）	支持多种终端类型接入，包括： PC调度台、摄像头、手机终端等； （3）	支持多种网络类型接入，包括：专网、运营商公网等，具备整合自组网接入功能； （4）	支持服务器分布式部署，支持负载均衡机制，可以根据业务容量实现弹性扩容。 （5）	支持系统健康状态自动检测，保障系统稳定运行。
+Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
 Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei.</description>
     </item>
     
